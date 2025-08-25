@@ -2,7 +2,7 @@
 
 ---
 
-## Aula 1 – Primeiros passos
+## Primeiros passos
 **Objetivo:** Introduzir os conceitos básicos de programação
 
 ### Exercícios
@@ -20,7 +20,7 @@
 
 ---
 
-## Aula 2 – Operações e decisões
+## Operações e decisões
 **Objetivo:** Usar Python como calculadora e introduzir lógica condicional.
 
 ### Exercícios
@@ -63,7 +63,7 @@
 
 ---
 
-## Aula 3 – While + Listas
+## While + Listas
 **Objetivo:** Repetir tarefas até condição de parada e guardar valores em listas.
 
 ### Exercícios – While
@@ -103,7 +103,7 @@
 
 ---
 
-## Aula 4 – For + Dicionários
+## For + Dicionários
 **Objetivo:** Usar laços de forma simples e guardar dados estruturados.
 
 ### Exercícios – For com range()
@@ -157,7 +157,7 @@
 
 ---
 
-## Aula 5 – Funções
+## Funções
 **Objetivo:** Dividir o código em blocos reutilizáveis.
 
 ### Exercícios
