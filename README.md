@@ -2,64 +2,35 @@
 
 ---
 
-## Primeiros passos
-**Objetivo:** Introduzir os conceitos básicos de programação
 
 ### Exercícios
-1. **Mensagem personalizada**
-   - Pergunte o nome e a idade do usuário e exiba uma mensagem: "Olá, [nome], ano que vem você terá [idade+1] anos".
-
-2. **Nome completo**
+1. **Nome completo**
    - Pergunte o nome e o sobrenome separadamente e exiba o nome completo.
 
-3. **Cidade e estado**
-   - Pergunte a cidade e o estado onde a pessoa mora e exiba: "Você mora em [cidade] - [estado]".
-
-4. **Comida favorita**
-   - Pergunte a comida favorita e exiba: "Que legal! Eu também gosto de [comida]".
-
----
-
-## Operações e decisões
-**Objetivo:** Usar Python como calculadora e introduzir lógica condicional.
-
-### Exercícios
-1. **Área do quadrado**
+2. **Área do quadrado**
    - Pergunte o lado do quadrado e calcule a área.
-
-2. **Perímetro do quadrado**
-   - Pergunte o lado do quadrado e calcule o perímetro.
 
 3. **Conversão de minutos**
    - Pergunte uma quantidade de minutos e mostre quantas horas e minutos equivalem.
 
-4. **Dobro do número**
-   - Pergunte um número e mostre seu dobro.
+4. **Média**
+   - Pergunte 3 notas e exiba a média delas.
 
-5. **Potência**
-   - Pergunte a base e o expoente e calcule a potência.
+5. **IMC** 
+   - Pergunte a altura e peso em seguida exiba o IMC.
+   - IMC = peso / (altura^2)
 
-6. **Notas do aluno**
-   - Pergunte a nota e exiba: "Aprovado" (≥6), "Recuperação" (≥4 e <6), "Reprovado" (<4).
-
-7. **Maior de dois números**
+6. **Maior de dois números**
    - Pergunte dois números e mostre qual é maior ou se são iguais.
 
-8. **Positivo, negativo ou zero**
-   - Pergunte um número e informe se é positivo, negativo ou zero.
+7. **Notas do aluno**
+   - Pergunte a nota e exiba: "Aprovado" (≥ 6), "Recuperação" (≥ 4 e < 6), "Reprovado" (< 4).
 
-9. **Diferença de idade**
-   - Pergunte a idade de duas pessoas e informe quem é mais velho ou se têm a mesma idade.
-
-10. **Par ou ímpar**
+8. **Par ou ímpar**
     - Pergunte um número e informe se ele é par ou ímpar.
 
-11. **IMC**
-    - Pergunte peso e altura, calcule o IMC e classifique (magro, normal, sobrepeso, obesidade).
-
-12. **Ano bissexto**
-    - Pergunte um ano e informe se é bissexto.
-
+9. **Calculadora**
+   - Pergunte dois números e a operação a ser realizada entre eles. Exiba o resultado da conta.
 
 ---
 
