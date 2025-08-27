@@ -34,43 +34,32 @@
 
 ---
 
-## While + Listas
-**Objetivo:** Repetir tarefas até condição de parada e guardar valores em listas.
-
-### Exercícios – While
-1. **Tabuada interativa**
-   - Pergunte um número e mostre sua tabuada de 1 a 10.
-
-2. **Jogo da adivinhação**
-   - Tente adivinhar um número fixo até acertar.
-
-3. **Par ou ímpar contínuo**
-   - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
-
-4. **Soma de números**
-   - Pergunte números ao usuário até ele digitar 0 e mostre a soma total.
-
-5. **Contagem regressiva**
-   - Pergunte um número inicial e mostre a contagem regressiva até zero.
-
 ### Exercícios – Listas
-6. **Tamanho da lista**
+10. **Tamanho da lista**
    - Crie uma lista de números e imprima quantos elementos ela possui.
 
-7. **Frutas**
+11. **Frutas**
    - Crie uma lista com 3 frutas e imprima a primeira e a última fruta.
 
-8. **Adicionar fruta**
+12. **Adicionar fruta**
    - Pergunte uma fruta ao usuário para adicionar à lista e exiba a lista modificada.
 
-9. **Maior e menor número**
-   - Crie uma lista de números e mostre o maior e o menor valor.
+13. **Removendo elementos**
+   - Crie uma lista de nomes. Remova o último elemento e exiba o elemento removido.
 
-10. **Nomes até sair**
-    - Pergunte nomes repetidamente até o usuário digitar "sair" e armazene todos em uma lista.
 
-11. **Soma com lista**
-    - Pergunte números até digitar 0, armazene em uma lista e mostre a soma de todos os números.
+### Exercícios – While
+14. **Tabuada interativa**
+   - Pergunte um número e mostre sua tabuada de 1 a 10.
+
+15. **Par ou ímpar contínuo**
+   - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
+
+16. **Soma de números**
+   - Pergunte números ao usuário até ele digitar 0 e mostre a soma total.
+
+17. **Contagem regressiva**
+   - Pergunte um número inicial e mostre a contagem regressiva até zero.
 
 ---
 
