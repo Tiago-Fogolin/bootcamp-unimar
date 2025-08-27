@@ -36,30 +36,30 @@
 
 ### Exercícios – Listas
 10. **Tamanho da lista**
-   - Crie uma lista de números e imprima quantos elementos ela possui.
+      - Crie uma lista de números e imprima quantos elementos ela possui.
 
 11. **Frutas**
-   - Crie uma lista com 3 frutas e imprima a primeira e a última fruta.
+      - Crie uma lista com 3 frutas e imprima a primeira e a última fruta.
 
 12. **Adicionar fruta**
-   - Pergunte uma fruta ao usuário para adicionar à lista e exiba a lista modificada.
+      - Pergunte uma fruta ao usuário para adicionar à lista e exiba a lista modificada.
 
 13. **Removendo elementos**
-   - Crie uma lista de nomes. Remova o último elemento e exiba o elemento removido.
+      - Crie uma lista de nomes. Remova o último elemento e exiba o elemento removido.
 
 
 ### Exercícios – While
 14. **Tabuada interativa**
-   - Pergunte um número e mostre sua tabuada de 1 a 10.
+      - Pergunte um número e mostre sua tabuada de 1 a 10.
 
 15. **Par ou ímpar contínuo**
-   - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
+      - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
 
 16. **Soma de números**
-   - Pergunte números ao usuário até ele digitar 0 e mostre a soma total.
+      - Pergunte números ao usuário até ele digitar 0 e mostre a soma total.
 
 17. **Contagem regressiva**
-   - Pergunte um número inicial e mostre a contagem regressiva até zero.
+      - Pergunte um número inicial e mostre a contagem regressiva até zero.
 
 ---
 
