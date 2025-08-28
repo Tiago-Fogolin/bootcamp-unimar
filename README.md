@@ -49,7 +49,14 @@
 
 
 ### Exercícios – While
-#### Lista de compras:
+
+14. **Tabuada interativa**
+      - Pergunte um número e mostre sua tabuada de 1 a 10.
+
+15. **Par ou ímpar contínuo**
+      - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
+
+#### 16 Lista de compras:
 - Escreva um programa de lista de compras.
 Ao executar o programa, ele deve abrir e exibir esse texto:
 ```
@@ -77,64 +84,50 @@ Aperte enter para voltar:
 ```
 Comando inválido.
 ```
-
-#### Outros exercícios de While:
-14. **Tabuada interativa**
-      - Pergunte um número e mostre sua tabuada de 1 a 10.
-
-15. **Par ou ímpar contínuo**
-      - Pergunte números repetidamente e informe se são pares ou ímpares até digitar "sair".
-
-16. **Soma de números**
-      - Pergunte números ao usuário até ele digitar 0 e mostre a soma total.
-
-17. **Contagem regressiva**
-      - Pergunte um número inicial e mostre a contagem regressiva até zero.
-
 ---
 
 
 ### Exercícios – For com range()
-18. **Soma de 1 a N**
+17. **Soma de 1 a N**
    - Pergunte um número N e some todos os números de 1 até N.
 
-19. **Tabuada de vários números**
+18. **Tabuada de vários números**
    - Pergunte dois números (inicio e fim) e imprima a tabuada de cada número nesse intervalo.
 
-20. **Quadrados**
+19. **Quadrados**
    - Crie uma lista com os quadrados dos números de 1 a 10.
 
 ### Exercícios – For em listas
-21. **Frutas em maiúsculo**
+20. **Frutas em maiúsculo**
    - Percorra uma lista de frutas e imprima cada fruta em maiúsculo.
 
-22. **Números pares**
+21. **Números pares**
    - Crie uma lista de números e imprima apenas os pares.
 
-23. **Contar letras**
+22. **Contar letras**
    - Crie uma lista de palavras e imprima a quantidade de letras de cada palavra.
 
 ### Exercícios – Dicionários
-24. **Cadastro de pessoa**
+23. **Cadastro de pessoa**
    - Crie um dicionário com nome, idade e cidade e imprima as informações.
 
-25. **Adicionar informação**
+24. **Adicionar informação**
    - Pergunte uma nova informação (ex: telefone) e adicione ao dicionário.
 
-26. **Soma de preços**
+25. **Soma de preços**
    - Crie um dicionário de produtos e preços e calcule o total de todos os produtos.
 
 ### Exercícios – For em dicionários
-27. **Percorrer chaves e valores**
+26. **Percorrer chaves e valores**
     - Mostre todas as chaves e valores de um dicionário de notas de alunos.
 
-28. **Produtos acima de um valor**
+27. **Produtos acima de um valor**
     - Dicionário de produtos e preços. Pergunte um valor mínimo e mostre produtos mais caros.
 
-29. **Aumentar preços**
+28. **Aumentar preços**
     - Percorra um dicionário de estoque e aumente todos os preços em 10%.
 
-30. **Lista de dicionários**
+29. **Lista de dicionários**
     - Crie uma lista de dicionários com pessoas (nome, idade) e imprima todas as informações.
 ---
 
@@ -142,20 +135,20 @@ Comando inválido.
 **Objetivo:** Dividir o código em blocos reutilizáveis.
 
 ### Exercícios
-31. **Função simples**
+30. **Função simples**
       - Crie uma função que imprime "Olá, mundo!".
 
-32. **Função com parâmetro**
+31. **Função com parâmetro**
       - Crie uma função que receba o nome do usuário e imprima "Olá, [nome]".
 
-33. **Função com retorno**
+32. **Função com retorno**
       - Crie uma função que receba dois números e retorne a soma.
 
-34. **Média de notas**
+33. **Média de notas**
       - Crie uma função que receba uma lista de notas e retorne a média.
 
 
-35. **Mini calculadora**
+34. **Mini calculadora**
       - Crie funções para somar, subtrair, multiplicar e dividir. Use essas funções para criar uma mini calculadora.
 
 
