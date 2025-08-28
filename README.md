@@ -49,6 +49,36 @@
 
 
 ### Exercícios – While
+#### Lista de compras:
+- Escreva um programa de lista de compras.
+Ao executar o programa, ele deve abrir e exibir esse texto:
+```
+1. Ver a lista de compras
+2. Adicionar um item na lista
+3. Parar o programa
+Digite um comando: 
+```
+- Caso o usuário insira o comando 1, exibir a lista de compras:
+```
+Lista de Compras: ["Uva", "Sabonete"]
+Aperte enter para voltar: 
+```
+
+*Dica: Esse 'Aperte o enter para voltar', pode ser um input(). Lembre-se que o programa fica parado na função input até que o usuário insira algo.*
+
+- Caso o usuário insira o comando 2, permita que ele insira um item na lista, e adicione o item digitado com a função append():
+```
+Escreva um item para adicionar na lista: 
+Aperte enter para voltar: 
+```
+- Caso o usuário insira o comando 3, encerre a aplicação.
+
+- E por fim, caso seja inserido outro comando exiba:
+```
+Comando inválido.
+```
+
+#### Outros exercícios de While:
 14. **Tabuada interativa**
       - Pergunte um número e mostre sua tabuada de 1 a 10.
 
