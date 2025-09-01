@@ -1,9 +1,6 @@
-# 📚 Exercícios Semana 1 – Fundamentos de Python
+# 📚 Exercícios
 
 ---
-
-
-### Exercícios
 1. **Nome completo**
    - Pergunte o nome e o sobrenome separadamente e exiba o nome completo.
 
@@ -75,8 +72,7 @@ Aperte enter para voltar:
 
 - Caso o usuário insira o comando 2, permita que ele insira um item na lista, e adicione o item digitado com a função append():
 ```
-Escreva um item para adicionar na lista: 
-Aperte enter para voltar: 
+Escreva um item para adicionar na lista:
 ```
 - Caso o usuário insira o comando 3, encerre a aplicação.
 
@@ -87,47 +83,40 @@ Comando inválido.
 ---
 
 
-### Exercícios – For com range()
+### Exercícios – For
 17. **Soma de 1 a N**
    - Pergunte um número N e some todos os números de 1 até N.
-
+  
 18. **Tabuada de vários números**
    - Pergunte dois números (inicio e fim) e imprima a tabuada de cada número nesse intervalo.
 
-19. **Quadrados**
-   - Crie uma lista com os quadrados dos números de 1 a 10.
+19. **Frutas em maiúsculo**
+   - Percorra uma lista de frutas e imprima cada fruta toda em maiúsculo.
 
-### Exercícios – For em listas
-20. **Frutas em maiúsculo**
-   - Percorra uma lista de frutas e imprima cada fruta em maiúsculo.
-
-21. **Números pares**
-   - Crie uma lista de números e imprima apenas os pares.
-
-22. **Contar letras**
+20. **Contar letras**
    - Crie uma lista de palavras e imprima a quantidade de letras de cada palavra.
 
 ### Exercícios – Dicionários
-23. **Cadastro de pessoa**
+21. **Cadastro de pessoa**
    - Crie um dicionário com nome, idade e cidade e imprima as informações.
 
-24. **Adicionar informação**
+22. **Adicionar informação**
    - Pergunte uma nova informação (ex: telefone) e adicione ao dicionário.
 
-25. **Soma de preços**
+23. **Soma de preços**
    - Crie um dicionário de produtos e preços e calcule o total de todos os produtos.
 
 ### Exercícios – For em dicionários
-26. **Percorrer chaves e valores**
+24. **Percorrer chaves e valores**
     - Mostre todas as chaves e valores de um dicionário de notas de alunos.
 
-27. **Produtos acima de um valor**
+25. **Produtos acima de um valor**
     - Dicionário de produtos e preços. Pergunte um valor mínimo e mostre produtos mais caros.
 
-28. **Aumentar preços**
+26. **Aumentar preços**
     - Percorra um dicionário de estoque e aumente todos os preços em 10%.
 
-29. **Lista de dicionários**
+27. **Lista de dicionários**
     - Crie uma lista de dicionários com pessoas (nome, idade) e imprima todas as informações.
 ---
 
@@ -135,20 +124,20 @@ Comando inválido.
 **Objetivo:** Dividir o código em blocos reutilizáveis.
 
 ### Exercícios
-30. **Função simples**
+28. **Função simples**
       - Crie uma função que imprime "Olá, mundo!".
 
-31. **Função com parâmetro**
+29. **Função com parâmetro**
       - Crie uma função que receba o nome do usuário e imprima "Olá, [nome]".
 
-32. **Função com retorno**
+30. **Função com retorno**
       - Crie uma função que receba dois números e retorne a soma.
 
-33. **Média de notas**
+31. **Média de notas**
       - Crie uma função que receba uma lista de notas e retorne a média.
 
 
-34. **Mini calculadora**
+32. **Mini calculadora**
       - Crie funções para somar, subtrair, multiplicar e dividir. Use essas funções para criar uma mini calculadora.
 
 
